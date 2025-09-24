@@ -1,1 +1,17 @@
 /.idea
+
+# Build results
+/secretary/[Dd]ebug/
+/secretary/[Dd]ebugPublic/
+/secretary/[Rr]elease/
+/secretary/[Rr]eleases/
+/secretary/x64/
+/secretary/x86/
+/secretary/[Ww][Ii][Nn]32/
+/secretary/[Aa][Rr][Mm]/
+/secretary/[Aa][Rr][Mm]64/
+/secretary/bld/
+/secretary/[Bb]in/
+/secretary/[Oo]bj/
+/secretary/[Ll]og/
+/secretary/[Ll]ogs/
