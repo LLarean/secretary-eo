@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using secretary;
 
-Console.WriteLine("Hello, World!");
+new Greeting(DateTime.Now).Message();
+
+Console.WriteLine("/nPress any key to exit");
+Console.ReadKey();
