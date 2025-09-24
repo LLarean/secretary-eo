@@ -2,6 +2,7 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4&logo=dotnet)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-12.0-239120?style&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/LLarean/secretary-eo/blob/main/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/llarean/secretary-eo/badge)](https://www.codefactor.io/repository/github/llarean/secretary-eo)
 [![Project Status](https://img.shields.io/badge/Status-Prototype-orange)](https://github.com/LLarean/secretary-eo)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/LLarean/kings-bounty)](https://github.com/llarean/secretary-eo)
 
